@@ -1,5 +1,5 @@
-# (©)Codexbotz
-# Recode by @mrismanaziz
+# (©)FahriBot
+# Recode by @Fahri
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import asyncio
